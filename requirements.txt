@@ -1,4 +1,7 @@
+jupyter
 pandas
 numpy
 scipy
 wquantiles
+statsmodels
+matplotlib
